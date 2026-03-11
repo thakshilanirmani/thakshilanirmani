@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/thakshilanirmani"><img width="100%"  alt="Biomedical Engineering" src="pexels-pavel-danilyuk-8439094.jpg" /></a></p>
+<p align="center"><a href="https://github.com/thakshilanirmani"><img width="100%"  alt="Biomedical Engineering" src="https://github.com/thakshilanirmani/thakshilanirmani/blob/main/header%20img.jfif" /></a></p>
 
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Thakshila Nirmani</h1>
